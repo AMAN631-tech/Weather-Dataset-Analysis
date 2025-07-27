@@ -23,8 +23,8 @@ The dataset includes the following columns:
 |  1. Clean the Data            | - Remove or fill missing values (e.g., in `Visibility_km` or `Weather`) <br> - Convert `Date/Time` to datetime format        |
 |  2. Understand the Data       | - Show basic stats: mean, min, max, etc., for each numeric column <br> - Count how many times each weather condition appears |
 |  3. Visualize the Trends      | - Plot temperature over time <br> - Show how humidity or wind speed changes in a day or month                                |
-| 🌦 4. Analyze Weather Patterns | - When was the fog most common? <br> - What kind of weather is linked with low visibility or high humidity?                  |
-| 🕰 5. Group Data by Time       | - Group by day/month to see average temperature, humidity, etc. <br> - Find out which month had most fog or rain             |
+|  4. Analyze Weather Patterns | - When was the fog most common? <br> - What kind of weather is linked with low visibility or high humidity?                  |
+|  5. Group Data by Time       | - Group by day/month to see average temperature, humidity, etc. <br> - Find out which month had most fog or rain             |
 |  6. Detect Extremes & Alerts  | - Detect times when visibility dropped below 1 km (possible danger/alerts)                                                   |
 
 ##  Key Visualizations
